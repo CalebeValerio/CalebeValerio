@@ -32,7 +32,7 @@
   <tr>
     <td width="50%">
       <b>🗣️ Idiomas & Comunicação:</b><br>
-      <b>Inglês Fluente com Sotaque Britânico</b> e excelente capacidade de comunicação interpessoal.
+      <b>Inglês Fluente com Sotaque Britânico</b> (vivência de 5 anos no Reino Unido e Portugal) com excelente comunicação interpessoal.
     </td>
     <td width="50%">
       <b>🏆 Destaques:</b><br>
@@ -42,16 +42,27 @@
 </table>
 
 ---
+
+### 🎛️ DISTRIBUIÇÃO DE COMPETÊNCIAS & TECH STACK (NATIVE BI DASHBOARD)
+
+```text
 +-----------------------------------------------------------------------------------+
-| LINGUAGENS & CONSULTA DE DADOS                                                    |
+| LINGUAGENS, CONSULTA & MODELAGEM DE DADOS                                         |
 +-----------------------------------------------------------------------------------+
-| Python (Pandas/Análise)       [████████████████████████████░░░░░░░░░░░░]  70%     |
-| SQL (Consultas & Modelagem)   [████████████████████████████████░░░░░░░░]  80%     |
+| Python (Pandas/Análise/ETL)   [████████████████████████████░░░░░░░░░░░░]  70%     |
+| SQL (Queries & Bancos)        [████████████████████████████████░░░░░░░░]  80%     |
 | Lógica de Programação         [████████████████████████████████████░░░░]  90%     |
+| Analytics Engineering         [████████████████████████████░░░░░░░░░░░░]  70%     |
 +-----------------------------------------------------------------------------------+
-| VISUALIZAÇÃO, BI & ANALYTICS                                                      |
+| VISUALIZAÇÃO DE DADOS, BI & RELATÓRIOS EXECUTIVOS                                 |
 +-----------------------------------------------------------------------------------+
 | Power BI (Dashboards/DAX)     [████████████████████████████████░░░░░░░░]  80%     |
+| Looker Studio                 [████████████████████████████████░░░░░░░░]  80%     |
+| Excel Avançado                [██████████████████████████████░░░░░░░░░░]  75%     |
 | Tableau                       [████████████████████████░░░░░░░░░░░░░░░░]  60%     |
-| Looker Studio & Excel         [██████████████████████████████░░░░░░░░░░]  75%     |
++-----------------------------------------------------------------------------------+
+| FERRAMENTAS & CONTROLE DE VERSÃO                                                  |
++-----------------------------------------------------------------------------------+
+| Git & GitHub                  [██████████████████████████████░░░░░░░░░░]  75%     |
+| Resolução de Problemas        [████████████████████████████████████░░░░]  90%     |
 +-----------------------------------------------------------------------------------+
