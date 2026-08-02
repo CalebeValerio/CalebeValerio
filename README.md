@@ -42,16 +42,16 @@
 </table>
 
 ---
-
-### 🌍 Minha História
-
-```mermaid
-timeline
-    title Trajetória & Experiência Internacional
-    section Portugal & Reino Unido
-        Imersão Cultural : Adaptação e vivência internacional em Portugal (1 ano e meio)
-        Faculdade de Jogos : Estudos no Reino Unido (3 anos e meio) e desenvolvimento de lógica avançada
-        Fluência : Consolidação do Inglês fluente com sotaque britânico e comunicação intercultural
-    section Atualmente
-        Foco em Dados : 100% focado no ecossistema de Python, SQL e Analytics
-        Google Data Cert : Cursando Certificação do Google e estudando 4 a 6h/dia
++-----------------------------------------------------------------------------------+
+| LINGUAGENS & CONSULTA DE DADOS                                                    |
++-----------------------------------------------------------------------------------+
+| Python (Pandas/Análise)       [████████████████████████████░░░░░░░░░░░░]  70%     |
+| SQL (Consultas & Modelagem)   [████████████████████████████████░░░░░░░░]  80%     |
+| Lógica de Programação         [████████████████████████████████████░░░░]  90%     |
++-----------------------------------------------------------------------------------+
+| VISUALIZAÇÃO, BI & ANALYTICS                                                      |
++-----------------------------------------------------------------------------------+
+| Power BI (Dashboards/DAX)     [████████████████████████████████░░░░░░░░]  80%     |
+| Tableau                       [████████████████████████░░░░░░░░░░░░░░░░]  60%     |
+| Looker Studio & Excel         [██████████████████████████████░░░░░░░░░░]  75%     |
++-----------------------------------------------------------------------------------+
