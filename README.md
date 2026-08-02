@@ -43,7 +43,24 @@
 
 ---
 
-### 🎛️ DISTRIBUIÇÃO DE COMPETÊNCIAS & TECH STACK (NATIVE BI DASHBOARD)
+### 🎛️ DISTRIBUIÇÃO DE COMPETÊNCIAS & TECH STACK
+
+<div align="center">
+
+  <!-- Badges das Tecnologias -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics_Engineering-2596BE?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br>
 
 ```text
 +-----------------------------------------------------------------------------------+
